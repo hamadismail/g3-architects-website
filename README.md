@@ -11,7 +11,7 @@ This is a responsive website design for **G3 Architects**, created using **HTML*
 - **Interactive Sections**: Includes feature highlights, statistics, and sponsorship details.
 
 ## Demo
-[Live Preview](#) *(hamadismail.github.io/g3-architects-website/)*
+[Live Preview](hamadismail.github.io/g3-architects-website/) *()*
 
 ## Folder Structure
 ## How to Use
