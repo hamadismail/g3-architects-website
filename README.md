@@ -10,10 +10,6 @@ This is a responsive website design for **G3 Architects**, created using **HTML*
 - **Modern Layout**: Clean and professional design, suitable for showcasing architecture projects.
 - **Interactive Sections**: Includes feature highlights, statistics, and sponsorship details.
 
-## Demo
-[Live Preview](hamadismail.github.io/g3-architects-website/) *()*
-
-## Folder Structure
 ## How to Use
 1. Clone the repository:
    ```bash
