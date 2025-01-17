@@ -237,6 +237,11 @@ footer h6 {
 
 /* Small Device */
 @media screen and (max-width: 576px) {
+  header,
+  section {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
   .section-title,
   .fact-description,
   .nav-links {
