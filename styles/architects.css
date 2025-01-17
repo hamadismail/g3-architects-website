@@ -218,17 +218,16 @@ p {
 /* Footer Section */
 footer {
   max-width: 1300px;
-  height: 100px;
   margin: 130px auto;
   margin-bottom: 150px;
   background-color: #fff4e7;
   border-radius: 8px;
-  text-align: center;
 }
 footer h6 {
   font-size: 1.25rem;
   color: #424242;
   font-weight: 400;
+  text-align: center;
   padding: 40px;
 }
 
