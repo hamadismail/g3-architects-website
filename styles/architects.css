@@ -212,16 +212,19 @@ p {
 /* Footer Section */
 footer {
   max-width: 1440px;
+  height: 100px;
   margin: 130px auto;
   margin-bottom: 150px;
-}
-footer h6 {
-  padding: 38px 410px;
-  font-size: 1.25rem;
-  color: #424242;
   background-color: #fff4e7;
   border-radius: 8px;
+  text-align: center;
+  border: 1px solid red;
+}
+footer h6 {
+  font-size: 1.25rem;
+  color: #424242;
   font-weight: 400;
+  margin-top: 40px;
 }
 
 /* ////////////////////// */
